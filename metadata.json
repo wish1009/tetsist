@@ -1,0 +1,6 @@
+{
+  "name": "토이 블록팡 - 5~7세 키즈 테트리스",
+  "description": "5~7세 어린이도 쉽고 재미있게 즐기는 알록달록 키즈 테트리스! 천천히 거북이 모드, 실수 되돌리기, 요술봉과 반짝이 별 스티커북까지 함께해요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
